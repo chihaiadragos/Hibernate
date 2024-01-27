@@ -1,2 +1,2 @@
 # Hibernate
-Learning Hibernate
+This Git repository is my dedicated space for learning Hibernate, a powerful and versatile Java framework for object-relational mapping and database interaction. Through a curated collection of code snippets, tutorials, and projects, I delve into Hibernate's features, honing my skills in building scalable and efficient Java applications with seamless and sophisticated database management.
